@@ -29,3 +29,5 @@ Güney Kore asıllı İtalyan mafya avukatının Güney Kore'ye döndükten sonr
 
    </body>
 </html>
+
+Patika Linki: https://app.patika.dev/melikehafsa
